@@ -1,0 +1,8 @@
+{
+  "token": "token",
+  "launchOptions": { "headless": false, "args": ["--start-maximized"] },
+  "log_channel_id": "chatID",
+  "ip": "http://zabbix-ip",  
+  "login": "admin",
+  "password": "admin"
+}

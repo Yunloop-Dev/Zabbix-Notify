@@ -1,0 +1,16 @@
+{
+  "name": "spp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "pm2 start app.js --max-memory-restart 500M"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^2.0.0",
+    "puppeteer": "^10.4.0",
+    "telegraf": "^4.4.2"
+  }
+}

@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "pm2 start app.js --max-memory-restart 500M"
+    "start": "node app.js",
+    "pm2": "pm2 start app.js --max-memory-restart 500M"
   },
   "author": "",
   "license": "ISC",

@@ -20,4 +20,5 @@
 Установить node_modules : `npm i`
 
 Запуск программы : `npm start`
+
 Запуск программы(через PM2) : `npm run pm2`
